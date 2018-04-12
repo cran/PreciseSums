@@ -1,4 +1,4 @@
-b06aab8d334e1dd3252837ee70c3acf2 *DESCRIPTION
+aaada957d0e07875755f3122fcbf5fb1 *DESCRIPTION
 c48d06596f4b8a96b48f43750118f987 *NAMESPACE
 d4d374628555183d99075511cd1838d9 *R/sums.R
 3032c9701dcace883607599fb292adc4 *man/fsum.Rd
@@ -10,10 +10,10 @@ ee6ac51b5f1a91a1367bfa250af765ee *man/neumaierSum.Rd
 06d60c06ce995c9d06db40a9570e8162 *man/psSetSum.Rd
 b61b4b2d931cc8443cc1735d67af9ec5 *man/psSum.Rd
 aec3a961f1517165c251312da33b0884 *src/Makevars
-a567c60dc61829124200a04f0cddf07c *src/PreciseSums.h
-d0f23acd779e3b5d74cd68dedb16dee4 *src/init.c
+d3a039ffff2220f1ec0de237b081eab2 *src/PreciseSums.h
+a7be169701d4afa1bed478acb7745bd5 *src/init.c
 4db4df3cd114ca482f4e351cf82f720a *src/install.libs.R
-65dae958ff31db24977ff5733396fe52 *src/prod.c
-06b0c5b51765433a146342d31eb0af08 *src/sum.c
+aa6f756f77109bef2498404cc18976f1 *src/prod.c
+33764826579d6d3a5a649a1bdad89b47 *src/sum.c
 452b9ec8e3717b6e9add1c67ecb205bf *tests/testthat.R
 3c26bc8993e38730ca0b2f16b2321afe *tests/testthat/test-sum.R
