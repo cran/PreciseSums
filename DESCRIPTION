@@ -1,6 +1,6 @@
 Package: PreciseSums
 Title: Accurate Floating Point Sums and Products
-Version: 0.3
+Version: 0.4
 Authors@R: c(person("Matthew","Fidler",
       role = c("aut","cre","cph"), email = "matthew.fidler@gmail.com"),
       person("Raymond","Hettinger",role=c("cph","aut")),
@@ -26,10 +26,10 @@ Depends: R (>= 3.2)
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.1
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2018-04-12 16:16:37 UTC; FIDLEMA3
+Packaged: 2020-07-09 20:56:25 UTC; matt
 Author: Matthew Fidler [aut, cre, cph],
   Raymond Hettinger [cph, aut],
   Jonathan Shewchuk [cph, aut],
@@ -39,4 +39,4 @@ Author: Matthew Fidler [aut, cre, cph],
   Python Team [cph]
 Maintainer: Matthew Fidler <matthew.fidler@gmail.com>
 Repository: CRAN
-Date/Publication: 2018-04-12 17:03:06 UTC
+Date/Publication: 2020-07-10 10:40:02 UTC
