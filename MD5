@@ -1,5 +1,6 @@
-d26435c677fbe4ba5f38bc6eaabd1d5b *DESCRIPTION
+8f9b0c7d43abfca473de2a842fcc6ab3 *DESCRIPTION
 782c5397d2578a967092ec01651b2302 *NAMESPACE
+dd76179a4c98eb7431d36eb28a2baf0a *NEWS.md
 730a140f0f0f0d05797a26c27269dd16 *R/sums.R
 8f57d7396f3fd7812bf201f73fb5e0cf *man/fsum.Rd
 860724f5e2e3f2ec33a1c179dd2bd1f0 *man/kahanSum.Rd
@@ -11,9 +12,9 @@ d26435c677fbe4ba5f38bc6eaabd1d5b *DESCRIPTION
 81192e7e6a228685b7eb96f18171e19e *man/psSum.Rd
 aec3a961f1517165c251312da33b0884 *src/Makevars
 d3a039ffff2220f1ec0de237b081eab2 *src/PreciseSums.h
-a7be169701d4afa1bed478acb7745bd5 *src/init.c
+b9875e2d5c7337f4d183ff4a4cf01442 *src/init.c
 1c1006b30d735b16886d0d88277eedfb *src/install.libs.R
-ce08528e8e0ab9d0c2c5a80dba37ac7e *src/prod.c
-183579655d3a8fa9015a1647804e3259 *src/sum.c
+10deb3d94bfc281394bd3ab35ea98869 *src/prod.c
+7dd2ff9e7054220dbe010f22011ee05d *src/sum.c
 4c04c492cba872741d6ee951351522da *tests/testthat.R
 807c387fe851903ea5bc26e77a02798f *tests/testthat/test-sum.R
