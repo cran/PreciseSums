@@ -1,6 +1,6 @@
 Package: PreciseSums
 Title: Accurate Floating Point Sums and Products
-Version: 0.6
+Version: 0.7
 Authors@R: c(person("Matthew","Fidler",
       role = c("aut","cre","cph"), email = "matthew.fidler@gmail.com"),
       person("Raymond","Hettinger",role=c("cph","aut")),
@@ -25,12 +25,12 @@ Description: Most of the time floating point arithmetic does
 Depends: R (>= 3.2)
 License: GPL (>= 2)
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Suggests: testthat
 BugReports: https://github.com/nlmixr2/PreciseSums/issues/
 URL: https://github.com/nlmixr2/PreciseSums
 NeedsCompilation: yes
-Packaged: 2023-04-21 18:00:53 UTC; matt
+Packaged: 2024-09-17 21:52:49 UTC; matt
 Author: Matthew Fidler [aut, cre, cph],
   Raymond Hettinger [cph, aut],
   Jonathan Shewchuk [cph, aut],
@@ -40,4 +40,4 @@ Author: Matthew Fidler [aut, cre, cph],
   Python Team [cph]
 Maintainer: Matthew Fidler <matthew.fidler@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-04-22 00:52:55 UTC
+Date/Publication: 2024-09-17 22:20:12 UTC

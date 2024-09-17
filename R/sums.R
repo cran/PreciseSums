@@ -47,9 +47,6 @@ neumaierSum <- function(numbers) {
 #' @references
 #'
 #' \url{https://docs.python.org/2/library/math.html}
-#'
-#' \url{https://code.activestate.com/recipes/393090/}
-#'
 #' \url{https://github.com/python/cpython/blob/a0ce375e10b50f7606cb86b072fed7d8cd574fe7/Modules/mathmodule.c}
 #'
 #' Shewchuk, JR. (1996)
@@ -153,4 +150,19 @@ psSetProd <- function(type=c("long double", "double", "logify")){
 #' @export
 psProd <- function(numbers) {
     .Call(`_psProd`, as.double(numbers))
+}
+#' Get the function pointers to link in C
+#'
+#' This allows the user to use the C functions in their own C/C++
+#' packages without binary linking to PreciseSums.
+#'
+#'
+#' @return list of function pointers
+#' @export
+#' @author Matthew L. Fidler
+#' @keywords internal
+#' @examples
+#' .preciseSumsPtr()
+.preciseSumsPtr <- function() {
+  .Call(`_PreciseSumsPtr`)
 }
